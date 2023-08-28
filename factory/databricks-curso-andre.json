@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-andre",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6dfd566e-aa0a-4b97-a6c1-89bd96827f93",
+		"tenantId": "5d4ff81c-72b2-431c-bb49-37be8625138e"
+	}
+}
